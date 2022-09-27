@@ -1,5 +1,5 @@
 ---
-title: Integrating EPNS Channel opt-in/opt-out in Front end Dapps
+title: Integrating PUSH Channel opt-in/opt-out in Front end Dapps
 description: Integrate EPNS into your dApp
 parent: N/A
 tags:
